@@ -1,7 +1,5 @@
 # SQL
-
-[en](https://github.com/dzp181/SQL/blob/master/README.en.md)
-
+[中文](https://github.com/dzp181/SQL/blob/master/README.md)
 
 *   Realm：CoreData 和 SQLite 的替代品。简洁、现代、快速。[官网](https://github.com/realm/realm-cocoa)
 *   YapDatabase：YapDatabase 是一个 iOS 和 Mac 上可扩展的数据库。[官网](https://github.com/yapstudios/YapDatabase)
